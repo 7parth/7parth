@@ -30,7 +30,6 @@ I like automating things that shouldn't require manual effort, and I tend to go 
 
 Currently exploring AI engineering opportunities.
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FF0000.svg)](https://github.com/readme-SVG/animated-line)
 
 ## Tech Stack
 
