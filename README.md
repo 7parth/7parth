@@ -24,7 +24,8 @@
 
 ---
 
-#About
+
+##About
 
 I'm a Final Year Computer Engineering undergrad building things at the intersection of AI engineering and systems design. My focus is on RAG pipelines, agentic AI, and backend infrastructure — specifically the kind of AI that works reliably in production, not just in notebooks.
 
