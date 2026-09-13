@@ -73,7 +73,7 @@ Currently exploring AI engineering opportunities.
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FF0000.svg)](https://github.com/readme-SVG/animated-line)
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
 ## Featured Projects
 
@@ -157,7 +157,7 @@ Full-stack AI application generating structured learning paths via topic decompo
 | 🏆 **Bajaj Finserv HackRx 6.0** | Ranked **67th out of 4800+** teams for an advanced document intelligence backend |
 | 🥈 **Sinhagad Technomela'25** | Secured **2nd place** among 600+ participants for an AI-powered, blockchain-driven solution |
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FF0000.svg)](https://github.com/readme-SVG/animated-line)
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
 ## GitHub Stats
 
