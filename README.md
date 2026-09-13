@@ -23,36 +23,11 @@
 
 ## About
 
-I'm a Computer Engineering undergrad building things at the intersection of AI engineering and systems design. My focus is on RAG pipelines, agentic AI, and backend infrastructure — specifically the kind of AI that works reliably in production, not just in notebooks.
+I'm a Final Year Computer Engineering undergrad building things at the intersection of AI engineering and systems design. My focus is on RAG pipelines, agentic AI, and backend infrastructure — specifically the kind of AI that works reliably in production, not just in notebooks.
 
 I like automating things that shouldn't require manual effort, and I tend to go deep on retrieval quality, evaluation, and system architecture before calling something done.
 
-Currently exploring AI engineering opportunities while actively building [Recon](https://github.com/7parth/Recon) — an autonomous, human-supervised job application agent.
-
----
-
-## What I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Recon**
-Autonomous job application pipeline powered by a 11-node LangGraph agent graph. Reads your resume, finds jobs, scores fit, tailors documents, and submits across 6 ATS platforms — with a mandatory human review gate before anything is sent.
-
-`LangGraph` · `FastAPI` · `Playwright` · `pgvector` · `Celery`
-
-</td>
-<td width="50%" valign="top">
-
-**📄 CiteMind**
-Production-grade RAG with hybrid retrieval (PGVector cosine + BM25) fused via RRF and cross-encoder reranking. Every answer ships with source paper, page number, and excerpt. Ragas eval: faithfulness **0.92**, answer relevancy **0.88**.
-
-`LangChain` · `NVIDIA NIM` · `Supabase` · `Next.js`
-
-</td>
-</tr>
-</table>
+Currently exploring AI engineering opportunities.
 
 ---
 
