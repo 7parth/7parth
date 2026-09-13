@@ -29,11 +29,8 @@ I'm a Final Year Computer Engineering undergrad building things at the intersect
 I like automating things that shouldn't require manual effort, and I tend to go deep on retrieval quality, evaluation, and system architecture before calling something done.
 
 Currently exploring AI engineering opportunities.
-
-
-
-
-
+<br>
+<br>
 ---
 
 ## Tech Stack
