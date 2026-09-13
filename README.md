@@ -188,7 +188,7 @@ Full-stack AI application generating structured learning paths via topic decompo
 
 </div>
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FF0000.svg)](https://github.com/readme-SVG/animated-line)
+---
 
 <div align="center">
 
