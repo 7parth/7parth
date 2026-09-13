@@ -30,6 +30,10 @@ I like automating things that shouldn't require manual effort, and I tend to go 
 
 Currently exploring AI engineering opportunities.
 
+
+
+
+
 ---
 
 ## Tech Stack
