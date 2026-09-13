@@ -163,14 +163,14 @@ Full-stack AI application generating structured learning paths via topic decompo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=7parth&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7parth&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&hide=html,css&langs_count=8" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=7parth&show_icons=true&theme=github_dark" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7parth&layout=compact&theme=github_dark&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7parth&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=7parth&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 
 </div>
 
