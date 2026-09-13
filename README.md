@@ -20,15 +20,9 @@
 </div>
 
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJyYnA1bXc5azZsbXFmaDd2aDBuMnQ4cjltdjBpZGxjaW96bHNjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH9mmqt8VKfe0/giphy.gif" alt="Developer animation">
-
 ---
-
-
-
-
-
-##About
+## About
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJyYnA1bXc5azZsbXFmaDd2aDBuMnQ4cjltdjBpZGxjaW96bHNjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH9mmqt8VKfe0/giphy.gif" alt="Developer animation">
 
 I'm a Final Year Computer Engineering undergrad building things at the intersection of AI engineering and systems design. My focus is on RAG pipelines, agentic AI, and backend infrastructure — specifically the kind of AI that works reliably in production, not just in notebooks.
 
