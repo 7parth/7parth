@@ -1,85 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Parth%20Waradkar&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=GenAI%20%7C%20ML%20%7C%20Full-Stack%20%7C%20Data%20Science%20%7C%20AgenticAI&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1400,100:D4AF37&height=200&section=header&text=Parth%20Waradkar&fontSize=52&fontColor=FFD700&fontAlignY=38&desc=GenAI%20%7C%20ML%20%7C%20Full-Stack%20%7C%20Data%20Science%20%7C%20AgenticAI&descAlignY=58&descSize=18&descColor=F5F5F5&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+production+AI+systems+%F0%9F%A4%96;Automating+the+things+that+shouldn%27t+be+manual)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&width=600&lines=Building+production+AI+systems+%F0%9F%A4%96;Automating+the+things+that+shouldn%27t+be+manual)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://7parth.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/parth-waradkar-7w)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/7_parth)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:waradkarparth@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://7parth.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/parth-waradkar-7w)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/7_parth)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:waradkarparth@gmail.com)
 
 </div>
 
 
 ---
-## About
+## 🖤✨ About
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJyYnA1bXc5azZsbXFmaDd2aDBuMnQ4cjltdjBpZGxjaW96bHNjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH9mmqt8VKfe0/giphy.gif" alt="Developer animation">
+<table>
+<tr>
+<td valign="top" width="62%">
 
-<hr>
+- 🎓 Final-year Computer Engineering undergraduate focused on AI engineering and systems design.
+- 🤖 Building production-ready RAG pipelines, agentic AI systems, and reliable backend infrastructure.
+- ⚙️ Automating repetitive workflows that should not require manual effort.
+- 🔎 Going deep on retrieval quality, evaluation, and system architecture before calling something done.
+- 🚀 Currently exploring AI engineering opportunities.
 
-- Final-year Computer Engineering undergraduate focused on AI engineering and systems design.
-- Building production-ready RAG pipelines, agentic AI systems, and reliable backend infrastructure.
-- Automating repetitive workflows that should not require manual effort.
-- Going deep on retrieval quality, evaluation, and system architecture before calling something done.
-- Currently exploring AI engineering opportunities.
+</td>
+<td align="center" valign="middle" width="38%">
 
-<hr>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJyYnA1bXc5azZsbXFmaDd2aDBuMnQ4cjltdjBpZGxjaW96bHNjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH9mmqt8VKfe0/giphy.gif" width="320" alt="Developer animation" />
 
-<br clear="right">
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=336791)
 
 ### AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graph&logoColor=58a6ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Ragas](https://img.shields.io/badge/Ragas-0d1117?style=flat-square&logo=testcafe&logoColor=58a6ff)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=375BD2)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graph&logoColor=D4AF37)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Ragas](https://img.shields.io/badge/Ragas-000000?style=flat-square&logo=testcafe&logoColor=D4AF37)
 
 `RAG` · `Agentic AI` · `Hybrid Retrieval` · `Semantic Search` · `Fine-Tuning` · `Prompt Engineering` · `NLP` · `Transformers`
 
 ### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=37814A)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff)
+![Celery](https://img.shields.io/badge/Celery-000000?style=flat-square&logo=celery&logoColor=37814A)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=646CFF)
 
 ### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=D4AF37)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS_EC2-0d1117?style=flat-square&logo=amazonec2&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS_EC2-000000?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-38B2AD.svg)](https://github.com/readme-SVG/animated-line)
 
@@ -178,7 +183,7 @@ Full-stack AI application generating structured learning paths via topic decompo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=7parth&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=7parth&theme=github-dark-blue&background=000000&border=D4AF37&stroke=5C4A00&ring=FFD700&fire=FFB000&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=B8B8B8&sideNums=F5F5F5&currStreakNum=FFD700" />
 
 </div>
 
@@ -200,6 +205,6 @@ Full-stack AI application generating structured learning paths via topic decompo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1400,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
