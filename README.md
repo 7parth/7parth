@@ -22,16 +22,20 @@
 
 ---
 ## About
+
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJyYnA1bXc5azZsbXFmaDd2aDBuMnQ4cjltdjBpZGxjaW96bHNjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH9mmqt8VKfe0/giphy.gif" alt="Developer animation">
 
-I'm a Final Year Computer Engineering undergrad building things at the intersection of AI engineering and systems design. My focus is on RAG pipelines, agentic AI, and backend infrastructure — specifically the kind of AI that works reliably in production, not just in notebooks.
+<hr>
 
-I like automating things that shouldn't require manual effort, and I tend to go deep on retrieval quality, evaluation, and system architecture before calling something done.
+- Final-year Computer Engineering undergraduate focused on AI engineering and systems design.
+- Building production-ready RAG pipelines, agentic AI systems, and reliable backend infrastructure.
+- Automating repetitive workflows that should not require manual effort.
+- Going deep on retrieval quality, evaluation, and system architecture before calling something done.
+- Currently exploring AI engineering opportunities.
 
-Currently exploring AI engineering opportunities.
-<br>
-<br>
-<br>
+<hr>
+
+<br clear="right">
 
 ---
 
